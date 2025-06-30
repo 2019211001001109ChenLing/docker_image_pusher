@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 zabbix/zabbix-web-nginx-mysql:alpine-6.4-latest
+#拉取Zabbix Agent镜像
+zabbix/zabbix-agent:latest
